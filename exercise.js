@@ -32,3 +32,20 @@ let x
 x = 12
 console.log (x)
 
+//Exercise 5
+
+let name = "John Doe";
+console.log (name)
+
+//Exercise 6
+
+console.log (12-x)
+
+//Exercise 7
+
+let name1 = "john";
+let name2 = "John";
+let checkEqualityOfName1AndName2 = name1 === name2 ;
+console.log(checkEqualityOfName1AndName2);
+checkEqualityOfName1AndName2 = name1 === name2.toLowerCase() ;
+console.log(checkEqualityOfName1AndName2);
