@@ -49,3 +49,8 @@ let checkEqualityOfName1AndName2 = name1 === name2 ;
 console.log(checkEqualityOfName1AndName2);
 checkEqualityOfName1AndName2 = name1 === name2.toLowerCase() ;
 console.log(checkEqualityOfName1AndName2);
+
+//Exercise 8
+let x8 = 2
+if (x8 === 2 ) {console.log("two")}
+else{console.log("wrong number")} ;
