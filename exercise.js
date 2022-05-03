@@ -60,3 +60,11 @@ else{console.log("wrong number")} ;
 let check1 = 8
 let check2 = check1 === 8 ? true : false ;
 console.log(check2)
+
+//Exercise extra1
+
+let isMale = "male"
+let gender = isMale === "male" ? 'male' : 'female' ;
+console.log(gender)
+
+
