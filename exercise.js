@@ -30,12 +30,14 @@ console.log (12+20)
 
 let x
 x = 12
-console.log (x)
+//console.log("----Ex 4----")
+
+console.log ("Ex 4",x)
 
 //Exercise 5
 
-let name = "John Doe";
-console.log (name)
+let nameJohn = "John Doe";
+console.log (nameJohn)
 
 //Exercise 6
 
@@ -63,8 +65,8 @@ console.log(check2)
 
 //Exercise extra1
 
-let isMale = "male"
-let gender = isMale === "male" ? 'male' : 'female' ;
+let isMale = true
+let gender = isMale ? 'male' : 'female' ;
 console.log(gender)
 
 //Exercise extra2
