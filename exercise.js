@@ -54,3 +54,9 @@ console.log(checkEqualityOfName1AndName2);
 let x8 = 2
 if (x8 === 2 ) {console.log("two")}
 else{console.log("wrong number")} ;
+
+//Exercise 9
+
+let check1 = 8
+let check2 = check1 === 8 ? true : false ;
+console.log(check2)
