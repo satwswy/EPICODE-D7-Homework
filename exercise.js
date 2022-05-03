@@ -67,4 +67,18 @@ let isMale = "male"
 let gender = isMale === "male" ? 'male' : 'female' ;
 console.log(gender)
 
+//Exercise extra2
+
+let integer1 = 5
+let integer2 = 3
+let isInteger1OrInteger2Eight = integer1 === 8 || integer2 === 8 ;
+console.log(isInteger1OrInteger2Eight) 
+let integerAddition = integer1 + integer2;
+let integerSubtraction = integer1 - integer2;
+let isTheIntegerAdditionEight = integerAddition === 8
+let isTheIntegerSubtractionEight = integerSubtraction === 8
+
+console.log(isTheIntegerAdditionEight)
+console.log(isTheIntegerSubtractionEight)
+
 
