@@ -81,4 +81,11 @@ let isTheIntegerSubtractionEight = integerSubtraction === 8
 console.log(isTheIntegerAdditionEight)
 console.log(isTheIntegerSubtractionEight)
 
+//Exercise extra3
+
+let stringOne = "This is"
+let stringTwo = " some text"
+let stringOneAndTwo = stringOne + stringTwo;
+console.log(stringOneAndTwo)
+
 
